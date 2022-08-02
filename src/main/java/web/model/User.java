@@ -1,8 +1,6 @@
 package web.model;
 
 
-import jakarta.persistence.Entity;
-import jakarta.persistence.Table;
 
 import javax.persistence.*;
 
